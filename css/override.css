@@ -1,0 +1,31 @@
+.panel-under {
+    background:#CCF9D0;
+}
+
+.panel-no-under {
+    background:rgba(0,0,0,0.0);
+}
+
+h1 {
+    font-family: 'Bungee Shade';font-size: 42px;
+}
+
+h2 {
+    font-family: 'Bungee';font-size: 28px;
+}
+
+h3 {
+    font-family: 'Bungee';font-size: 20px;
+}
+
+body {
+    font-family: 'Bungee'; font-size: 12px;
+    background: url('/assets/Isometric_graph_paper,_US_letter_size_SVG.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
